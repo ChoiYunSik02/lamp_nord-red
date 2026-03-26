@@ -145,17 +145,17 @@ python injector.py
 ```bash
 node-red
 ```
+<img width="1188" height="597" alt="image" src="https://github.com/user-attachments/assets/04aa007f-4cc2-4ee3-be25-2ff79be3fd4a" />
 
-- 편집기: http://localhost:1880
-- 대시보드: http://localhost:1880/ui
 
 ### 5. Grafana 실행
 
 ```bash
 sudo systemctl start grafana-server
 ```
+<img width="570" height="603" alt="image" src="https://github.com/user-attachments/assets/c063daaf-15d5-4664-8b6d-06537364fa98" />
 
-- 브라우저: http://localhost:3000 (admin / admin)
+
 
 ---
 
